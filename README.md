@@ -25,5 +25,6 @@ This workflow uses a scheduled trigger to automatically send an email reminder e
 3. Set your preferred reminder time
 4. Activate the workflow
 
-### Screenshot
-(workflow_screenshot)(image.png)
+## Screenshot
+![Workflow Screenshot](image.png)
+
