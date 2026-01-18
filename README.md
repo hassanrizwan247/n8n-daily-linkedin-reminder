@@ -24,3 +24,6 @@ This workflow uses a scheduled trigger to automatically send an email reminder e
 2. Update Gmail credentials
 3. Set your preferred reminder time
 4. Activate the workflow
+
+### Screenshot
+(workflow_screenshot)(image.png)
